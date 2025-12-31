@@ -4,9 +4,11 @@
 <img src="https://preview.redd.it/planetary-gearbox-for-nema-17-v0-ln4g36lzddag1.png?width=443&format=png&auto=webp&s=d2406a88b611070ae6c1b0496d49fae96329f67a"/>
 
 ## Second Model
+<div style="display:flex;">
 <img src="https://github.com/eomiguel314/RoboticArm/blob/main/Captura%20de%20tela%202025-12-30%20212030.png"/>
 <img src="https://github.com/eomiguel314/RoboticArm/blob/main/Captura%20de%20tela%202025-12-30%20211952.png"/>
-New planetary carrier and with the link for the other joint
+</div>
+  New planetary carrier and with the link for the other joint
 Motor Used:Nema 17
 Redution -> 3:1
 🤖
