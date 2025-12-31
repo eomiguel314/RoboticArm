@@ -1,4 +1,4 @@
-⚙️ Gearbox Design
+Planetary Gearbox as a Robotic Actuator for a 3 DOF Robotic Arm
 🔹 First Planetary Gearbox Model
 
 Early prototype focused on validating the planetary reduction concept for a NEMA 17 motor.
